@@ -1,3 +1,8 @@
+__All updates are related to course-lab, and the modification are related to executing the rag using Qdrant Vector Store in memory and using a local model through llamafile__
+
+__In this case, I'm using Open-Source LLaVA [llava-v1.5-7b-q4.llamafile](https://huggingface.co/Mozilla/llava-v1.5-7b-llamafile/resolve/main/llava-v1.5-7b-q4.llamafile?download=true) of 4 GB size__
+
+
 # Retrieval Augmented Generation (RAG) with Azure
 
 A Retrieval Augmented Generation example with Azure, using Azure OpenAI Service, Azure Cognitive Search, embeddings, and a sample CSV file to produce
